@@ -10,8 +10,8 @@ This project provides data-driven insights into coffee shop sales using MySQL qu
 ### Monitor Seasonal Trends – Compare weekday vs. weekend sales and detect seasonal variations.
 # Key Features:
 ## 1. Sales Performance Analysis
-a) Total sales revenue calculation.
-b) Total number of orders and quantity sold.
+a) Total sales revenue calculation. 
+b) Total number of orders and quantity sold. 
 c) Month-over-month (MoM) growth trends.
 ## 2. Time-Based Sales Insights
 a) Daily and hourly sales breakdown.
