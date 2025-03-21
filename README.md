@@ -10,26 +10,26 @@ This project provides data-driven insights into coffee shop sales using MySQL qu
 ### Monitor Seasonal Trends – Compare weekday vs. weekend sales and detect seasonal variations.
 # Key Features:
 ## 1. Sales Performance Analysis
-a) Total sales revenue calculation
-b) Total number of orders and quantity sold
-c) Month-over-month (MoM) growth trends
+a) Total sales revenue calculation.
+b) Total number of orders and quantity sold.
+c) Month-over-month (MoM) growth trends.
 ## 2. Time-Based Sales Insights
-a) Daily and hourly sales breakdown
-b) Sales trends by weekdays vs. weekends
-c) Peak sales hours analysis
+a) Daily and hourly sales breakdown.
+b) Sales trends by weekdays vs. weekends.
+c) Peak sales hours analysis.
 ## 3. Location-Based Revenue Analysis
-a) Store-wise sales performance comparison
-b) Identifying high-performing coffee shop locations
+a) Store-wise sales performance comparison.
+b) Identifying high-performing coffee shop locations.
 ## 4. Product Category Insights
-a) Sales by product category (e.g., coffee, snacks, desserts)
-b) Top 10 best-selling products
+a) Sales by product category (e.g., coffee, snacks, desserts).
+b) Top 10 best-selling products.
 ## 5. KPI Calculations & Business Metrics
-a) MoM sales growth and percentage difference
-b) Average sales calculation per day
-c) Classification of daily sales as Above Average, Below Average, or Average
+a) MoM sales growth and percentage difference.
+b) Average sales calculation per day.
+c) Classification of daily sales as Above Average, Below Average, or Average.
 ## 6. Trend & Seasonal Analysis
-a) Identifying seasonal variations in sales
-b) Comparing sales across months for forecasting
+a) Identifying seasonal variations in sales.
+b) Comparing sales across months for forecasting.
 # Key Insights:
 ## 1. Sales Performance & Growth
 a) Total Sales Revenue: The coffee shop generates a significant portion of its revenue from key products and peak hours.
