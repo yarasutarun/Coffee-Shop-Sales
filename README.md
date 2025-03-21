@@ -3,11 +3,23 @@ This project provides a detailed analysis of coffee shop sales data using MySQL.
 # Project Overview:
 This project provides data-driven insights into coffee shop sales using MySQL queries. It focuses on analyzing total sales, order trends, revenue distribution, and customer purchasing patterns across different time frames, locations, and product categories.
 # Key Objectives:
-### Track Sales Growth – Measure total sales, order volume, and revenue over time.
-### Identify Peak Sales Hours – Analyze sales by day and hour to optimize staffing and stock.
-### Compare Store Locations – Evaluate performance across different coffee shop branches.
-### Analyze Product Demand – Find top-selling products and categories.
-### Monitor Seasonal Trends – Compare weekday vs. weekend sales and detect seasonal variations.
+##### Track Sales Growth – Measure total sales, order volume, and revenue over time.
+##### Identify Peak Sales Hours – Analyze sales by day and hour to optimize staffing and stock.
+##### Compare Store Locations – Evaluate performance across different coffee shop branches.
+##### Analyze Product Demand – Find top-selling products and categories.
+##### Monitor Seasonal Trends – Compare weekday vs. weekend sales and detect seasonal variations.
+
+### Dataset:
+The dataset (coffee_shop_sales) contains the following key fields:
+##### transaction_id: Unique ID for each transaction
+##### transaction_date: Date of transaction
+##### transaction_time: Time of transaction
+##### store_location: Coffee shop branch location
+##### product_category: Category of the purchased product
+##### product_type: Type of product sold
+##### unit_price: Price per unit
+##### transaction_qty: Quantity of items purchased
+
 # Key Features:
 ## 1. Sales Performance Analysis
 a) Total sales revenue calculation.  
